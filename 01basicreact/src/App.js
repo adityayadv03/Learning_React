@@ -1,6 +1,12 @@
+
+import Chai from './Chai.js'
+
 function App() {
   return (
-    <h1>Learning React</h1>
+    <>
+      <Chai/>
+      <h1>Learning React</h1>
+    </>
   );
 }
 
